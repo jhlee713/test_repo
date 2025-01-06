@@ -1,0 +1,8 @@
+android sdk
+C:\Users\smartmaker\AppData\Local\Android\Sdk
+
+"C:\Program Files\Android\Android Studio\bin\studio64.exe"
+"D:\Android\Android Studio\bin\studio64.exe"
+
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Android Studio"
+
